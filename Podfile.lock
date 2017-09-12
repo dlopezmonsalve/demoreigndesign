@@ -1,0 +1,23 @@
+PODS:
+  - Alamofire (4.5.0)
+  - EVReflection (4.16.3):
+    - EVReflection/Core (= 4.16.3)
+  - EVReflection/Core (4.16.3)
+  - MGSwipeTableCell (1.5.6)
+  - PKHUD (4.2.3)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.3)
+  - EVReflection
+  - MGSwipeTableCell
+  - PKHUD (~> 4.0)
+
+SPEC CHECKSUMS:
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  EVReflection: 78a60b3c628a2e765652cdc554a903a3e40b16c8
+  MGSwipeTableCell: 616700eb0ffd1c611ba909066cb7fd739790a0a7
+  PKHUD: c7692163a09875cbf15827dc581df3c5cf7f1015
+
+PODFILE CHECKSUM: 9dbae4a3d671a0aa6149d810557183c2a663e7df
+
+COCOAPODS: 1.2.1
